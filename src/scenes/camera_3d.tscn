@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://ckwblw6xfhq71"]
+
+[ext_resource type="Script" path="res://src/scripts/Camera3Dtest.gd" id="1_dv5by"]
+
+[node name="Camera3D2" type="Camera3D"]
+transform = Transform3D(1, 0, 2.98023e-08, 0, 1, 0, -2.98023e-08, 0, 1, 0, 6, 26.8028)
+current = true
+script = ExtResource("1_dv5by")
